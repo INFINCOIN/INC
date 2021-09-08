@@ -1,0 +1,6 @@
+usr/local/bin/infincoin-qt usr/bin
+share/pixmaps/infincoin32.xpm usr/share/pixmaps
+share/pixmaps/infincoin16.xpm usr/share/pixmaps
+share/pixmaps/infincoin128.png usr/share/pixmaps
+debian/infincoin-qt.desktop usr/share/applications
+debian/infincoin-qt.protocol usr/share/kde4/services/

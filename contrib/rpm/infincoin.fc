@@ -1,0 +1,8 @@
+/usr/bin/infincoin-cli		--	gen_context(system_u:object_r:infincoin_exec_t,s0)
+/usr/sbin/infincoind		--	gen_context(system_u:object_r:infincoin_exec_t,s0)
+/usr/lib(64)?/infincoin/infincoind		--	gen_context(system_u:object_r:infincoin_exec_t,s0)
+
+/etc/infincoin(/.*)?		gen_context(system_u:object_r:infincoin_conf_t,s0)
+/var/lib/infincoin(/.*)?		gen_context(system_u:object_r:infincoin_var_lib_t,s0)
+
+(/var)?/run/infincoind(/.*)?   gen_context(system_u:object_r:infincoin_var_run_t,s0)

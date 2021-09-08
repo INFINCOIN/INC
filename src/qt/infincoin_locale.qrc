@@ -1,0 +1,17 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="de">locale/infincoin_de.qm</file>
+        <file alias="en">locale/infincoin_en.qm</file>
+        <file alias="en_US">locale/infincoin_en_US.qm</file>
+        <file alias="es">locale/infincoin_es.qm</file>
+        <file alias="es_ES">locale/infincoin_es_ES.qm</file>
+        <file alias="fr_FR">locale/infincoin_fr_FR.qm</file>
+        <file alias="hr_HR">locale/infincoin_hr_HR.qm</file>
+        <file alias="it">locale/infincoin_it.qm</file>
+        <file alias="ko_KR">locale/infincoin_ko_KR.qm</file>
+        <file alias="nl">locale/infincoin_nl.qm</file>
+        <file alias="pl">locale/infincoin_pl.qm</file>
+        <file alias="ru">locale/infincoin_ru.qm</file>
+        <file alias="zh_CN">locale/infincoin_zh_CN.qm</file>
+    </qresource>
+</RCC>
