@@ -24,18 +24,18 @@ URL:		https://infincoin.org/
 Source0:	https://infincoin.org/bin/infincoin-core-%{version}/infincoin-%{version}.tar.gz
 Source1:	http://download.oracle.com/berkeley-db/db-%{bdbv}.NC.tar.gz
 
-Source10:	https://raw.githubusercontent.com/infincoin-project/infincoin/v%{version}/contrib/debian/examples/infincoin.conf
+Source10:	https://raw.githubusercontent.com/INFINCOIN/INC/v%{version}/contrib/debian/examples/infincoin.conf
 
 #man pages
-Source20:	https://raw.githubusercontent.com/infincoin-project/infincoin/v%{version}/doc/man/infincoind.1
-Source21:	https://raw.githubusercontent.com/infincoin-project/infincoin/v%{version}/doc/man/infincoin-cli.1
-Source22:	https://raw.githubusercontent.com/infincoin-project/infincoin/v%{version}/doc/man/infincoin-qt.1
+Source20:	https://raw.githubusercontent.com/INFINCOIN/INC/v%{version}/doc/man/infincoind.1
+Source21:	https://raw.githubusercontent.com/INFINCOIN/INC/v%{version}/doc/man/infincoin-cli.1
+Source22:	https://raw.githubusercontent.com/INFINCOIN/INC/v%{version}/doc/man/infincoin-qt.1
 
 #selinux
-Source30:	https://raw.githubusercontent.com/infincoin-project/infincoin/v%{version}/contrib/rpm/infincoin.te
+Source30:	https://raw.githubusercontent.com/INFINCOIN/INC/v%{version}/contrib/rpm/infincoin.te
 # Source31 - what about infincoin-tx and bench_infincoin ???
-Source31:	https://raw.githubusercontent.com/infincoin-project/infincoin/v%{version}/contrib/rpm/infincoin.fc
-Source32:	https://raw.githubusercontent.com/infincoin-project/infincoin/v%{version}/contrib/rpm/infincoin.if
+Source31:	https://raw.githubusercontent.com/INFINCOIN/INC/v%{version}/contrib/rpm/infincoin.fc
+Source32:	https://raw.githubusercontent.com/INFINCOIN/INC/v%{version}/contrib/rpm/infincoin.if
 
 Source100:	https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg
 

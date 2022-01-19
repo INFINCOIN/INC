@@ -8,7 +8,7 @@ architectures:
 packages:
 - "faketime"
 remotes:
-- "url": "https://github.com/infincoin-project/infincoin-detached-sigs.git"
+- "url": "https://github.com/INFINCOIN/INC-detached-sigs.git"
   "dir": "signature"
 files:
 - "infincoin-osx-unsigned.tar.gz"

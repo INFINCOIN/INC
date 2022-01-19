@@ -1,8 +1,8 @@
-INFINCOIN version v5.2.0 is now available from:  <https://github.com/infincoin-project/infincoin/releases>
+INFINCOIN version v5.2.0 is now available from:  <https://github.com/INFINCOIN/INC/releases>
 
 This is a new major version release, including various bug fixes and visual improvements.
 
-Please report bugs using the issue tracker at github: <https://github.com/infincoin-project/infincoin/issues>
+Please report bugs using the issue tracker at github: <https://github.com/INFINCOIN/INC/issues>
 
 Mandatory Update
 ==============

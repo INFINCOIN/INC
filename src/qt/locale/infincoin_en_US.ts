@@ -1862,9 +1862,9 @@ STAKING</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/infincoin-project/infincoin-project-translations</source>
+https://www.transifex.com/INFINCOIN/INC-translations</source>
         <translation>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/infincoin-project/infincoin-project-translations</translation>
+https://www.transifex.com/INFINCOIN/INC-translations</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
