@@ -106,7 +106,7 @@ parts:
       - fcitx-frontend-qt5
 
   infincoin-core:
-    source: https://github.com/INFINCOIN-Project/INFINCOIN
+    source: https://github.com/INFINCOIN/INC
     source-type: git
     source-tag: master
     plugin: nil

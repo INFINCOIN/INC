@@ -43,8 +43,8 @@ Build INFINCOIN
 
 1. Clone the INFINCOIN source code:
 
-        git clone https://github.com/infincoin-project/infincoin
-        cd infincoin
+        git clone https://github.com/INFINCOIN/INC
+        cd INC
 
 2.  Make the Homebrew OpenSSL headers visible to the configure script  (do ```brew info openssl``` to find out why this is necessary, or if you use Homebrew with installation folders different from the default).
 

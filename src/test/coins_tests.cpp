@@ -1220,7 +1220,7 @@ BOOST_AUTO_TEST_CASE(ccoins_add)
      * entry in the cache after the modification. Verify behavior with the
      * with the ModifyNewCoin coinbase argument set to false, and to true.
      *
-     * INFINCOIN: Remove Coinbase argument (ref: https://github.com/INFINCOIN-Project/INFINCOIN/pull/1775)
+     * INFINCOIN: Remove Coinbase argument (ref: https://github.com/INFINCOIN/INC/pull/1775)
      *
      *           Cache   Write   Result  Cache        Result
      *           Value   Value   Value   Flags        Flags

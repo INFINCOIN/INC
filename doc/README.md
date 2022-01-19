@@ -28,7 +28,7 @@ Drag INFINCOIN-Qt to your applications folder, and then run INFINCOIN-Qt.
 
 ### Need Help?
 
-* See the documentation at the [INFINCOIN Wiki](https://github.com/INFINCOIN-Project/INFINCOIN/wiki)
+* See the documentation at the [INFINCOIN Wiki](https://github.com/INFINCOIN/INC/wiki)
 for help and more information.
 * Ask for help on [BitcoinTalk](https://bitcointalk.org/index.php?topic=1262920.0) or on the [INFINCOIN Forum](http://forum.infincoin.org/).
 * Join our Discord server [Discord Server](https://discord.infincoin.org)

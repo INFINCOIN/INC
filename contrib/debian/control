@@ -29,8 +29,8 @@ Build-Depends: debhelper,
  dh-systemd
 Standards-Version: 3.9.2
 Homepage: http://www.infincoin.org
-Vcs-Git: git://github.com/INFINCOIN-Project/INFINCOIN.git
-Vcs-Browser: http://github.com/INFINCOIN-Project/INFINCOIN
+Vcs-Git: git://github.com/INFINCOIN/INC.git
+Vcs-Browser: http://github.com/INFINCOIN/INC
 
 Package: infincoind
 Architecture: any

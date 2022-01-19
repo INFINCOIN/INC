@@ -2269,7 +2269,7 @@ STAKING</source>
     <message>
         <location line="+21"/>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/infincoin-project/infincoin-project-translations</source>
+https://www.transifex.com/INFINCOIN/INC-translations</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
